@@ -1,4 +1,4 @@
-# REST-API-Energy-Rate-Calulator-Python
+# REST-API-Energy-Rate-Python
 
 <img width="720" alt="Screen Shot 2019-08-30 at 9 26 21 PM" src="https://user-images.githubusercontent.com/39345855/64057603-dad7e800-cb6c-11e9-8dd4-394cf8907cdd.png">
 
